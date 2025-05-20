@@ -49,5 +49,5 @@ Make sure to configure settings like database, static files, and email backend p
 
 ### **5. Video Link (YouTube :- jaypalbhichar)**
 Watch the videos to learn in proper way 
-https://youtu.be/mM6vMMLYJHY
+[https://youtu.be/1ypcGJl0XY0?si=AcawnNUlUgDPgJQu]
 
